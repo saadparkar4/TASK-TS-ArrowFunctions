@@ -16,9 +16,7 @@ import { square } from "./arrowFunctions";
 //   return [0];
 // }
 
-const squares = (numbers: number[]): number[] => {
-	return [];
-};
+const squares = (numbers: number[]): number[] => [];
 
 // example:
 squares([1, 2, 3]); // => [1, 4, 9]
